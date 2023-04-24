@@ -1,4 +1,4 @@
-# AirBnB_DBMS
+# AirBnB_RDBMS
 A relational database management system for AirBnB
 
 The WHAT
